@@ -24,7 +24,7 @@ public class RankingSystem {
     });
 
         //Method to add students name and score
-	    private static void addStudent(Scanner sc) {
+	    private static void addStudent() {
 		Scanner sc = new Scanner(System.in);
 		System.out.println();
 	        System.out.print("Enter student's name: ");
