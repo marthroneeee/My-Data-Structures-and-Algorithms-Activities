@@ -1,3 +1,5 @@
+![Screenshot 2024-12-09 130516](https://github.com/user-attachments/assets/7b9a13f5-9661-4c3c-b617-178de965de0d)
+
 ### BACHELOR OF SCIENCE IN INFORMATION TECHNOLOGY(BSIT) STUDENT ATTENDANCE SYSTEM
 
 #### Introduction: 
