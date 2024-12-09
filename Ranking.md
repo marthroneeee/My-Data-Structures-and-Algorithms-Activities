@@ -1,3 +1,5 @@
+![Screenshot 2024-12-09 131113](https://github.com/user-attachments/assets/713e1118-b85c-41c1-a4a5-8de3c5ea1983)
+
 ### STUDENT RANKING SYSTEM
 
 #### Introduction: 
