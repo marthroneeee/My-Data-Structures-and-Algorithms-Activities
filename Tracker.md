@@ -1,3 +1,5 @@
+![Screenshot 2024-12-09 131517](https://github.com/user-attachments/assets/25a55cb0-a459-41e3-9a1f-b0ff11e3a773)
+
 ### STUDENT TRACKER SYSTEM
 
 #### Introduction: 
